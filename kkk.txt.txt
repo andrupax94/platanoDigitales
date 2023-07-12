@@ -1,7 +1,7 @@
 Cuestionario CMS
 
     1. ¿Qué quiere decir CMS, en inglés y español?
-Content Management System, Sistema de gestión de contenidos
+Content Managghjghement System, Sistema de gestión de contenidos
 
     2. Qué es un CMS
 Un CMS (Content Management System, por sus siglas en inglés) es un software utilizado para crear y gestionar el contenido de un sitio web de manera sencilla y eficiente. Proporciona una interfaz que permite a los usuarios sin conocimientos de programación realizar tareas como crear, editar, organizar y publicar contenido en un sitio web. 
